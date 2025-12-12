@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Footer {
+    background-color: rgb(252, 223, 228);
+    width: 100%;
+margin-top: 100px;
+}
+
+.Footer_content {
+    margin: 0 auto;
+    max-width: 1360px;
+}
+
+.footer_pages {
+    padding: 30px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+li {
+    font-family: "Noto Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-size: 20px;
+    color: black;
+}

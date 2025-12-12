@@ -1,1 +1,1 @@
-![Alt text](scrin.png)
+![Alt text](screen.png)
